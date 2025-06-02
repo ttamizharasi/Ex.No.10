@@ -1,8 +1,7 @@
-# Ex.No.10
-Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
+# Ex.No.10  Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
-## Date:
-## Reg. No.
+## Name: Tamizharasi S
+## Reg. No. 212222040164
 
 ## Aim:
 To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
@@ -62,5 +61,161 @@ content generation scenarios:
 3.	Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
 4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
 
-## Conclusion:
-By applying various prompting techniques, you can generate high-quality content for a wide range of use cases, from business reports and case studies to creative works like short stories and articles. This experiment demonstrates how structured prompting can guide AI models like ChatGPT to create coherent, accurate, and engaging outputs tailored to specific needs.
+# AI TOOLS REQUIRED:
+● For assistance – ChatGPT, Claude, DeepSeek
+● For Video Generation – Runway
+● For Image Generation – Midjourney
+
+# Prompting Techniques
+### 1. Query Decomposition
+->Description: Breaking down complex tasks into smaller, more manageable sub-queries.
+
+->Use Case: Writing detailed reports on smart city sustainability.
+
+->Example:
+
+Initial Prompt: "Write a report on the role of smart cities in achieving sustainability goals."
+
+->Decomposed Prompts:
+
+"Explain how smart cities contribute to reducing carbon emissions."
+
+"Discuss the integration of renewable energy in smart city planning."
+
+"Provide examples of smart transportation systems enhancing sustainability."
+
+->Effect:
+
+-Ensures depth and clarity by tackling one aspect at a time.
+
+-Results in well-structured and coherent content.
+
+### 2. Decision-Making Prompts
+->Description: Asking the model to choose the best approach or style before generating content.
+
+->Use Case: Customizing articles on smart cities for different audiences.
+
+->Example:
+
+"Should the article on sustainable smart cities be written for policymakers or the general public?"
+
+"Would an infographic or a case study be more effective for this topic?"
+
+->Effect:
+
+-Tailors the content based on the target audience.
+
+-Enhances relevance and readability.
+
+### 3. Semantic Filtering
+->Description: Using constraints to focus on specific aspects.
+
+->Use Case: Creating focused case studies or comparative analyses.
+
+->Example:
+
+"Generate a case study on smart cities promoting sustainability, excluding examples from North America."
+
+"Write an article focusing only on smart waste management systems."
+
+->Effect:
+
+-Increases specificity.
+
+-Eliminates redundant or irrelevant content.
+
+### 4. Hierarchical Prompting
+->Description: Using a layered approach, starting broad and narrowing down.
+
+->Use Case: Structured report writing.
+
+->Example:
+
+"Introduce the concept of smart cities."
+
+"Zoom in on environmental sustainability initiatives within smart cities."
+
+"Detail IoT-based solutions for energy efficiency in urban infrastructure."
+
+->Effect:
+
+-Encourages logical flow.
+
+-Provides comprehensive understanding.
+
+### 5. Role-Based Prompting
+->Description: Assigning the AI a specific role for content generation.
+
+->Use Case: Generating content with specific tone or expertise.
+
+->Example:
+
+"Act as an urban planner and describe how smart technologies improve city sustainability."
+
+"Take on the role of a journalist reporting on a sustainable smart city expo."
+
+->Effect:
+
+-Tailors tone, vocabulary, and focus to suit the role.
+
+-Increases authenticity.
+
+### 6. Iterative Refinement
+->Description: Rewriting or refining content based on feedback or output review.
+
+->Use Case: Enhancing clarity, tone, or detail.
+
+->Example:
+
+Initial Prompt: "Write an article about smart water management in cities."
+
+Refinement: "Include examples of sensor-based water quality monitoring."
+
+Further Refinement: "Highlight cost benefits of implementing these systems."
+
+->Effect:
+
+-Improves alignment with the content’s intent.
+
+-Enables high-quality final output.
+
+-Impact of Prompting Techniques on Content Types
+
+| Content Type   | Prompting Technique                 | Impact                                                                         |
+| -------------- | ----------------------------------- | ------------------------------------------------------------------------------ |
+| Reports        | Query Decomposition, Hierarchical   | Ensures in-depth, structured analysis of smart city themes.                    |
+| Articles       | Decision-Making, Semantic Filtering | Customizes tone and scope for intended audience (e.g., public or experts).     |
+| Case Studies   | Semantic Filtering, Role-Based      | Enhances relevance and contextual depth.                                       |
+| Creative Works | Role-Based, Iterative Refinement    | Supports engaging, innovative narratives such as comic books about green tech. |
+
+
+# Example Workflow for a Case Study
+Objective: Write a case study on IoT-based smart energy grids in urban sustainability.
+
+1. Query Decomposition:
+
+Prompt 1: "Explain how smart energy grids function in urban areas."
+
+Prompt 2: "Describe the role of IoT in optimizing energy distribution."
+
+Prompt 3: "Highlight cities that have successfully implemented such systems."
+
+2.Semantic Filtering:
+
+"Focus only on implementations in Asian smart cities."
+
+3.Role-Based Prompting:
+
+"Act as a smart infrastructure analyst to evaluate these case studies."
+
+4.Iterative Refinement:
+
+Initial Output: "Smart grids reduce energy wastage through real-time monitoring."
+
+Refined Prompt: "Include metrics or statistics showing energy savings post-implementation."
+
+# Conclusion
+Different prompting techniques significantly enhance the quality, structure, and purpose alignment of AI-generated content. By strategically choosing between query decomposition, decision-making, semantic filtering, and role-based approaches, content creators can produce targeted, audience-specific outputs on themes such as Sustainable Smart Cities. These prompt patterns enable a blend of depth, creativity, and precision across reports, case studies, articles, and even visual storytelling formats.
+
+# RESULT:
+Thus, the experiment showed that using diverse prompt patterns greatly enhanced the quality, clarity, and relevance of AI-generated content such as reports, articles, and case studies on Sustainable Smart Cities. Structured prompts led to more coherent, audience-specific, and insightful outputs.
